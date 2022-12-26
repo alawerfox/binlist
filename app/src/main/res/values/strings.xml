@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">binlist</string>
+    <string name="search">Input bin</string>
+    <string name="history">history</string>
+    <string name="error">Input bin is not correct</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">length</string>
+    <string name="luhn">luhn</string>
+    <string name="scheme">SCHEME</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="country">COUNTRY</string>
+    <string name="bank">BANK</string>
+    <string name="numeric">numeric</string>
+    <string name="alpha2">alpha2</string>
+    <string name="name">name</string>
+    <string name="emoji">emoji</string>
+    <string name="currency">currency</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="city">city</string>
+    <string name="url">url</string>
+    <string name="phone">phone</string>
+</resources>
